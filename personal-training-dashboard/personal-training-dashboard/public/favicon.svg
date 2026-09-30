@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="덤벨">
+  <rect width="48" height="48" rx="15" fill="#193a30"/>
+  <g fill="none" stroke="#edc682" stroke-linecap="round" stroke-width="4">
+    <path d="M16 24h16"/>
+    <path d="M11 17v14M17 14v20M31 14v20M37 17v14"/>
+  </g>
+</svg>
